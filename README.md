@@ -1,6 +1,6 @@
 # inov-SA
  
- # inov 1조
+ # inov-R반 1조
 
  # 전재민
 
