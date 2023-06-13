@@ -1,6 +1,6 @@
 # inov-SA
  
- # inov-R반 1조
+ # inov-S반 1조
 
  # 전재민
   INFJ입니다.
